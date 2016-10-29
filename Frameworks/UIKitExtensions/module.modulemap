@@ -1,0 +1,7 @@
+framework module UIKitExtensions {
+  umbrella header "UIKitExtensions.h"
+  header "UIAppearance+Swift.h"
+
+  export *
+  module * { export * }
+}
